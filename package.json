@@ -1,0 +1,12 @@
+{
+  "name": "site-calc",
+  "version": "1.0.0",
+  "description": "* This site is an online loan and mortgage calculator, \r the template and appearance are \r made according to the real mortgage calculator, \r which I took as an example from the Sberbank website. This is my \r version of the calculator.\r * [Sbarbank site](https://www.sberbank.ru/ru/person/credits/home/buying_complete_house) is here.\r There you can see original online sber-calc.\r * ## My project is logically built according to the mvc pattern. \r However, I want to mention some features, that distinguish my logic from the most familiar MVC behavior. In my case there are:\r * Model -- Which is responsible only for the data.\r * View -- This is not only the appearance or the presentation, I also implemented listening to various events, input, initialization here. So VIEW is not responsible ONLY for displaying the UI on the screen.\r * Controller -- Which responsible for linking data to the display and is responsible for synchronizing the model and view.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
