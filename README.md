@@ -1,6 +1,6 @@
 # VueJS-PHP-calc 
 ## Hi, there! This is my new Javascript pet-project!
-Деплой на моем сайте: https://just-for-fun-myapps.ru/ - можно потыкать приложение здесь!
+
 
 * This site is an online loan and mortgage calculator, 
 the template and appearance are 
